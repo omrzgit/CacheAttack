@@ -1,7 +1,7 @@
 originally by [NDevTK](https://github.com/NDevTK) and definitely check out [master repo](https://github.com/NDevTK/CacheAttack) for updates, this one might be outdated. [CacheAttack](https://github.com/NDevTK/CacheAttack)
 
 ## Disclaimer
-This done before cache partitioning was added to chrome.
+This was done before cache partitioning was added to chrome.
 No longer maintained.
 
 ## CacheAttack
